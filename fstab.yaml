@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/SoficTsang/accs-comu09-eds-hol-1025/
     type: markup
 
 folders:
